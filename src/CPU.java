@@ -14,10 +14,11 @@ public class CPU {
 		int CPUmodel = scnr.nextInt();
 		brand.setModel(CPUmodel);
 		
-		System.out.println("Brand: " + brand.getName());
-		System.out.println("Model: " + brand.getModel());
+		System.out.println("CPU Brand: " + brand.getName());
+		System.out.println("CPU Model: " + brand.getModel());
+		System.out.println("Hello world");
 
-        scnr.close();
+        
 	}
 }
 

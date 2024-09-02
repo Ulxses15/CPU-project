@@ -16,7 +16,6 @@ public class CPU {
 		
 		System.out.println("CPU Brand: " + brand.getName());
 		System.out.println("CPU Model: " + brand.getModel());
-		System.out.println("Hello world");
         
 	}
 }
